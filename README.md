@@ -1,60 +1,67 @@
 # new94
 
-<h1 align="center">👋 Hey, I'm new94</h1>
+<h1 align="center">Hey there! 👋 I'm new94</h1>
 <p align="center">
-  💻 Computer Science Student • 🔐 Cybersecurity Enthusiast • 🧠 Self-Taught Learner • ☕ Java & Python fan
+  💻 CS Student • 🔐 Security Curious • 🛠 Tinkerer • 🚀 Always Learning
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,php,sql,assembly,nodejs,rust,go,kotlin,swift,ruby,vscode,linux,git&perline=9" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,php,sql,assembly,nodejs,rust,go,kotlin,swift,ruby,vscode,linux,git&perline=9" alt="My Tech Stack" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 A Bit About Me
 
-- 🎓 Studying **Computer Science** at university
-- 🧠 Exploring multiple domains through online resources, courses & documentation
-- ⚙️ Currently developing a **Python-based system assistant** (think Jarvis, but lighter 😄)
-- 🌱 I enjoy combining formal education with hands-on experimentation
-- 🛠️ I like building CLI tools, small apps, and exploring security concepts
-
----
-
-### 🔧 Languages & Tools
-
-- **Languages**: C/C++, Python, Java, HTML5/CSS3, JavaScript, PHP, SQL, Assembly
-- **Currently Exploring**: Rust, Go, Kotlin, Swift, Ruby
-- **Tools**: Visual Studio, VSCode, Git, GitHub, Node.js
-- **Operating Systems**: Windows 🪟 & Linux 🐧
+- 🎓 Currently studying **Computer Science** at university
+- 🔍 Passionate about exploring tech fields beyond the classroom
+- 🛠 Working on a **Python-based system assistant**
+- 🌐 Learning through YouTube, docs, courses, and hours of trial & error
+- ☕ Coffee-fueled coding is the best kind, right?
 
 ---
 
-### 📚 Currently Learning
+### 💡 What I Use & Explore
 
-- 🛡️ **Cybersecurity** – Basics of networks, encryption, Linux tools & ethical hacking  
-- 🌐 **Web Development** – From front-end (HTML/CSS/JS) to back-end (Node.js, PHP, SQL)  
-- 🤖 **AI/ML (Machine Learning)** – Intro to models, algorithms, and data science fundamentals  
+- 🧠 **Languages I Know/Use**:  
+  C/C++, Python, Java, HTML5, CSS3, JavaScript, PHP, SQL, Assembly
 
-*Learning through university content, YouTube, online platforms like freeCodeCamp, Coursera & open documentation.*
+- 🚀 **Languages I'm Exploring**:  
+  Rust, Go, Kotlin, Swift, Ruby
 
----
+- 🧰 **Tools**:  
+  VS Code, Visual Studio, Node.js, Git/GitHub, Linux terminal stuff
 
-### 🚀 Projects
-
-| Project | Description | Language |
-|--------|-------------|----------|
-| 🔐 [File Integrity Checker](https://github.com/new94/file-integrity-checker-python) | Computes SHA256 hashes for files in a folder | Python |
-| 🌐 [Safe URL Validator](https://github.com/new94/Java-Safe-URL-Validator) | Validates HTTPS URLs with correct formatting | Java |
-| 🔑 [Password Strength Checker](https://github.com/new94/Password-Strength-Checker-C-) | Rates password strength on the command line | C++ |
+- 💻 **OS Environments**:  
+  Windows 🪟 & Linux 🐧
 
 ---
 
-### ✨ Future Goals
+### 🔍 Currently Exploring
 
-- 🧪 Release my personal portfolio (currently building it!)
-- 📤 Contribute to open-source tools and projects — sharing code, improving docs, submitting issues or fixes
-- 💡 Keep building tools that solve real problems
+- 🛡️ **Cybersecurity** → basic concepts like encryption, Linux tools & network stuff  
+- 🌐 **Web Development** → front-end (HTML/CSS/JS) & back-end (Node.js, PHP, SQL)  
+- 🤖 **AI/ML (Machine Learning)** → learning how machines learn (with some math magic 🧮)
+
+🧠 I'm mixing university with self-learning from sites like Coursera, freeCodeCamp, YouTube, blogs & docs.
+
+---
+
+### 🚀 Cool Little Projects
+
+| 🔧 Project | What It Does | Language |
+|-----------|--------------|----------|
+| 🗂️ [File Integrity Checker](https://github.com/new94/file-integrity-checker-python) | Calculates SHA256 hashes for folder files | Python |
+| 🌐 [Safe URL Validator](https://github.com/new94/Java-Safe-URL-Validator) | Checks if a URL is HTTPS and valid | Java |
+| 🔒 [Password Strength Checker](https://github.com/new94/Password-Strength-Checker-C-) | Checks password strength in terminal | C++ |
+
+---
+
+### 🎯 Goals Ahead
+
+- 🧪 Finish & publish my portfolio site (it’s brewing ☕)
+- 📤 Start contributing to **open-source tools** (bug reports, code fixes, docs — anything helps!)
+- 🤝 Connect more with the dev community and build cool stuff along the way
 
 ---
 
@@ -62,11 +69,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=new94&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=new94&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
-<p align="center">
-  🚀 _"Code. Break. Learn. Repeat."_
 </p>
